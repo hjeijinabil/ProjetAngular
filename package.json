@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "scripts": {
+    "start-json-server-auth": "json-server-auth --watch db.json"
+  }
+}
